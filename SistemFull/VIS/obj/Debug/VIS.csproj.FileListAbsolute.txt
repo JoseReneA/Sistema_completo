@@ -1,0 +1,22 @@
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\bin\VIS.dll
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\bin\VIS.pdb
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\bin\Models.dll
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\bin\Services.dll
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\bin\QueryDataBD.dll
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\bin\Models.pdb
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\bin\Services.pdb
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\bin\QueryDataBD.pdb
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\obj\Debug\VIS.csprojResolveAssemblyReference.cache
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\obj\Debug\VIS.dll
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\VIS\obj\Debug\VIS.pdb
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\bin\VIS.dll
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\bin\VIS.pdb
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\bin\Models.dll
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\bin\Services.dll
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\bin\QueryDataBD.dll
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\bin\Models.pdb
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\bin\Services.pdb
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\bin\QueryDataBD.pdb
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\obj\Debug\VIS.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\obj\Debug\VIS.dll
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\VIS\obj\Debug\VIS.pdb

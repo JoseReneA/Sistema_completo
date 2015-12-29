@@ -1,0 +1,14 @@
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\QueryDataBD\bin\Debug\QueryDataBD.dll
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\QueryDataBD\bin\Debug\QueryDataBD.pdb
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\QueryDataBD\bin\Debug\Models.dll
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\QueryDataBD\bin\Debug\Models.pdb
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\QueryDataBD\obj\Debug\QueryDataBD.csprojResolveAssemblyReference.cache
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\QueryDataBD\obj\Debug\QueryDataBD.dll
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\QueryDataBD\obj\Debug\QueryDataBD.pdb
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\QueryDataBD\obj\Debug\QueryDataBD.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\QueryDataBD\obj\Debug\QueryDataBD.dll
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\QueryDataBD\bin\Debug\QueryDataBD.dll
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\QueryDataBD\bin\Debug\QueryDataBD.pdb
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\QueryDataBD\bin\Debug\Models.dll
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\QueryDataBD\bin\Debug\Models.pdb
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\QueryDataBD\obj\Debug\QueryDataBD.pdb

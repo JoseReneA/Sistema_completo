@@ -1,0 +1,8 @@
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\Models\bin\Debug\Models.dll
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\Models\bin\Debug\Models.pdb
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\Models\obj\Debug\Models.dll
+c:\users\manuel\documents\visual studio 2010\Projects\SistemFull\Models\obj\Debug\Models.pdb
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\Models\bin\Debug\Models.dll
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\Models\bin\Debug\Models.pdb
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\Models\obj\Debug\Models.dll
+C:\Users\USER\Documents\UTTT\SISTEMA_PRACTICA\SistemFull\Models\obj\Debug\Models.pdb
