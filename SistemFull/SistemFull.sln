@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryDataBD", "QueryDataBD\QueryDataBD.csproj", "{AFA5DA1C-BA6B-46BA-B9BA-DF7F36DDB71B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Almacen", "Almacen\Almacen.csproj", "{CCBA3AB3-D610-42C9-994A-10363C1F657B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{AFA5DA1C-BA6B-46BA-B9BA-DF7F36DDB71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFA5DA1C-BA6B-46BA-B9BA-DF7F36DDB71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFA5DA1C-BA6B-46BA-B9BA-DF7F36DDB71B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBA3AB3-D610-42C9-994A-10363C1F657B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBA3AB3-D610-42C9-994A-10363C1F657B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBA3AB3-D610-42C9-994A-10363C1F657B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBA3AB3-D610-42C9-994A-10363C1F657B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
